@@ -1,4 +1,4 @@
-# 🐦 Blink to Fly (v1.1.0)
+# Blink to Fly (v1.1.0)
 
 <img width="512" height="512" alt="Logo" src="https://github.com/user-attachments/assets/71b4ca09-dacc-4ad9-ae27-f0fc2235f328" />
 
